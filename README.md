@@ -24,13 +24,13 @@
 
 ## Post WOAHS-X
 
-| [WacOS 10.12 (Sierra)](https://github.com/seanpm2001/WacOS_10.12/) | [WacOS 10.13 (High Sierra)](https://github.com/seanpm2001/WacOS_10.13/) | [WacOS 10.14 (Mojave)](https://github.com/seanpm2001/WacOS_10.14/) | [WacOS 10.15 (Catalina)](https://github.com/seanpm2001/WacOS_10.15/) | [WacOS 11.0 (Big Sur)](https://github.com/seanpm2001/WacOS_11/) | [WacOS 12.0 (Monterey)](https://github.com/seanpm2001/WacOS_12/) |
-|---|---|---|---|---|---|
-| First boot | First boot | First boot | First boot | First boot | First boot | First boot | First boot |
-| ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) |
-| ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) |
-| Default boot | Default boot | Default boot | Default boot | Default boot | Default boot |
-| Wac OS X 10.12 [Local](/WacOS_X/10.12/) | Wac OS X 10.13 [Local](/WacOS_X/10.13/) | Wac OS X 10.14 [Local](/WacOS_X/10.14/) | Wac OS X 10.15 [Local](/WacOS_X/10.15/) | Wac OS X 11.0 [Local](/WacOS_X/XI/11/) | Wac OS X 12.0 [Local](/WacOS_X/XII/12/) |
+| [WacOS 10.12 (Sierra)](https://github.com/seanpm2001/WacOS_10.12/) | [WacOS 10.13 (High Sierra)](https://github.com/seanpm2001/WacOS_10.13/) | [WacOS 10.14 (Mojave)](https://github.com/seanpm2001/WacOS_10.14/) | [WacOS 10.15 (Catalina)](https://github.com/seanpm2001/WacOS_10.15/) | [WacOS 11.0 (Big Sur)](https://github.com/seanpm2001/WacOS_11/) | [WacOS 12.0 (Monterey)](https://github.com/seanpm2001/WacOS_12/) | [WacOS 13.0 (Ventura)](https://github.com/seanpm2001/WacOS_13/) |
+|---|---|---|---|---|---|---|
+| First boot | First boot | First boot | First boot | First boot | First boot | First boot | First boot || First boot |
+| ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) | ![/W_Modern1_HighCompression.png](/W_Modern1_HighCompression.png) |
+| ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) | ![/W_Plain_HighCompression.png](/W_Plain_HighCompression.png) |
+| Default boot | Default boot | Default boot | Default boot | Default boot | Default boot | Default boot |
+| Wac OS X 10.12 [Local](/WacOS_X/10.12/) | Wac OS X 10.13 [Local](/WacOS_X/10.13/) | Wac OS X 10.14 [Local](/WacOS_X/10.14/) | Wac OS X 10.15 [Local](/WacOS_X/10.15/) | Wac OS X 11.0 [Local](/WacOS_X/XI/11/) | Wac OS X 12.0 [Local](/WacOS_X/XII/12/) | Wac OS X 13.0 [Local](/WacOS_X/XIII/13/) |
 
 # WacOS X
 
@@ -216,7 +216,17 @@ This is the home repository. If you are already in this repository, the link is 
 
 This is a guesthouse repository, and not a home repository, as development mainly stays on the main WacOS side. This is just the guesthouse that the project retreats to at times. If you are already in this repository, the link is likely recursive, and will reload the page.
 
-[Home repository](https://github.com/seanpm2001/WacOS/tree/WacOS-dev/WacOS_X/XI/12/)
+[Home repository](https://github.com/seanpm2001/WacOS/tree/WacOS-dev/WacOS_X/XII/12/)
+
+This is the home repository. If you are already in this repository, the link is likely recursive, and will reload the page.
+
+### Wac OS XIII 13.0
+
+[Guesthouse repository](https://github.com/seanpm2001/WacOS_13/)
+
+This is a guesthouse repository, and not a home repository, as development mainly stays on the main WacOS side. This is just the guesthouse that the project retreats to at times. If you are already in this repository, the link is likely recursive, and will reload the page.
+
+[Home repository](https://github.com/seanpm2001/WacOS/tree/WacOS-dev/WacOS_X/XIII/13/)
 
 This is the home repository. If you are already in this repository, the link is likely recursive, and will reload the page.
 
@@ -236,10 +246,72 @@ This is the home repository. If you are already in this repository, the link is 
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Saturday, June 4th at 8:41 pm PST)`
+**File version:** `2 (2022, Saturday, June 18th at 4:49 pm PST)`
 
-**Line count (including blank lines and compiler line):** `246`
+**Line count (including blank lines and compiler line):** `318`
 
 **Current article language:** `English (USA)`
+
+***
+
+## File history
+
+<details><summary><p lang="en"><b>Click/tap here to expand/collapse the changelog for this project</b></p></summary>
+
+<details><summary><p lang="en"><b>Version 1 (2022, Saturday, June 4th at 8:41 pm PST))</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Started the file
+- [x] Added the pre-WOAHS-X table
+- [x] Added the post-WOAHS-X table
+- [x] Added the `about` section
+- [x] Added the `languages` section
+- [x] Added the `programming language support` section
+- [x] Added the `feature translation notes` section
+- [x] Added the `home repositories` section
+- - [x] Added the Wac OS X 10.0 home repository section
+- - [x] Added the Wac OS X 10.1 home repository section
+- - [x] Added the Wac OS X 10.2 home repository section
+- - [x] Added the Wac OS X 10.3 home repository section
+- - [x] Added the Wac OS X 10.4 home repository section
+- - [x] Added the Wac OS X 10.5 home repository section
+- - [x] Added the Wac OS X 10.6 home repository section
+- - [x] Added the WOAHS-X 10.7 home repository section (redirect only)
+- - [x] Added the WOAHS-X 10.8 home repository section (redirect only)
+- - [x] Added the WOAHS-X 10.9 home repository section (redirect only)
+- - [x] Added the WOAHS-X 10.10 home repository section (redirect only)
+- - [x] Added the WOAHS-X 10.11 home repository section (redirect only)
+- - [x] Added the Wac OS 10.12 home repository section
+- - [x] Added the Wac OS 10.13 home repository section
+- - [x] Added the Wac OS 10.14 home repository section
+- - [x] Added the Wac OS 10.15 home repository section
+- - [x] Added the Wac OS 11.x home repository section
+- - [x] Added the Wac OS 12.x home repository section
+- - [x] Added the `master` home repository section
+- [x] Added the file info section
+- [ ] No other changes in version 1
+
+</details>
+
+<details><summary><p lang="en"><b>Version 2 (2022, Saturday, June 18th at 4:49 pm PST)</b></p></summary>
+
+**This version was made by:** [`@seanpm2001`](https://github.com/seanpm2001/)
+
+> Changes:
+
+- [x] Updated the post-WOAHS-X table
+- [x] Updated the `home repositories` section
+- - [x] Updated the Wac OS 12.x home repository section
+- - [x] Added the Wac OS 13.x home repository section
+- [x] Updated the file info section
+- [x] Added the file history section
+- [ ] No other changes in version 2
+
+</details>
+
+</details>
 
 ***
